@@ -1,8 +1,8 @@
-# Welcome to [Raja Peta]'s GitHub Profile 👋
+# Welcome to Raja Peta's GitHub Profile 👋
 
 ## About Me
 
-Hey there! I'm [Raja Peta], a passionate DevOps Engineer specializing in AWS cloud technologies. I love automating processes and optimizing infrastructure for efficiency and scalability.
+Hey there! I'm Raja Peta, a passionate DevOps Engineer specializing in AWS cloud technologies. I love automating processes and optimizing infrastructure for efficiency and scalability.
 
 ## 🔧 Technologies & Tools
 
@@ -35,8 +35,8 @@ I'm open to collaborating on projects related to:
 
 You can reach me via:
 
-- Email: [Rajapeta45@gamil.com]
-- LinkedIn: [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile]
+- Email: Rajapeta45@gamil.com
+- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 ## 💬 Ask Me About
 
