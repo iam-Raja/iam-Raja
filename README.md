@@ -26,12 +26,9 @@ You can reach me via:
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-- Email: Rajapeta45@gamil.com
-- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-raja&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-raja&show_icons=true&theme=radical) ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-raja&layout=compact&theme=radical)
 
 ## 🌱 Currently Learning
 
@@ -48,11 +45,21 @@ I'm open to collaborating on projects related to:
 - CI/CD pipelines setup and optimization
 - Cloud architecture design and implementation
 
+
+- Email: Rajapeta45@gamil.com
+- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
 ## 📄 Projects
 
 Here are a few projects I'm proud of:
 
 - [Project Name](Link to Project Repository) - Brief description
+
+
+
+
+
+
 
 
 
