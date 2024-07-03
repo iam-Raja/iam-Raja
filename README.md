@@ -1,8 +1,8 @@
-# Welcome to [Your Name]'s GitHub Profile 👋
+# Welcome to [Raja Peta]'s GitHub Profile 👋
 
 ## About Me
 
-Hey there! I'm [RajaPeta], a passionate DevOps Engineer specializing in AWS cloud technologies. I love automating processes and optimizing infrastructure for efficiency and scalability.
+Hey there! I'm [Raja Peta], a passionate DevOps Engineer specializing in AWS cloud technologies. I love automating processes and optimizing infrastructure for efficiency and scalability.
 
 ## 🔧 Technologies & Tools
 
