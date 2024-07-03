@@ -69,7 +69,7 @@ Here are a few projects I'm proud of:
 
 ## 🚀 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-raja&show_icons=true)
 
 ## 📝 Latest Blog Posts
 
