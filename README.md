@@ -1,14 +1,29 @@
 # Hi 👋, I am Raja Peta
 
 
+<h3 align="left">👩‍💻  About Me</h3>
+
 Hey there! I'm Raja Peta, a passionate DevOps Engineer specializing in AWS cloud technologies. I love automating processes and optimizing infrastructure for efficiency and scalability.
 
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-raja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iam-raja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+
+## 🛠 Skills
 
 <!-- Intro -->
 AWS DevOps Engineer | Linux | Ansible | Terraform | Jenkins | Docker | Kubernetes
 
 <!-- Skills -->
-## Skills
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -26,13 +41,6 @@ You can reach me via:
   <a href="rajapeta03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
-
-
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-raja&show_icons=true&theme=radical) ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-raja&layout=compact&theme=radical)
 
 
 
@@ -55,18 +63,4 @@ I'm open to collaborating on projects related to:
 
 
 
-
-## 📫 Reach Me
-
-- Email: Rajapeta45@gamil.com
-- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-
-
-
-
-
-
-
-
-
-
+###
