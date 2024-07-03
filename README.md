@@ -1,4 +1,4 @@
-# Hi 👋, I am Raja Peta
+# Hi 👋, I'm Raja Peta!
 
 
 <h3 align="left">👩‍💻  About Me</h3>
