@@ -1,20 +1,37 @@
-# Welcome to Raja Peta's GitHub Profile 👋
+# Hi 👋, I am Raja Peta
 
-## About Me
 
 Hey there! I'm Raja Peta, a passionate DevOps Engineer specializing in AWS cloud technologies. I love automating processes and optimizing infrastructure for efficiency and scalability.
 
-## 🔧 Technologies & Tools
 
-Here are some of the technologies and tools I work with:
+<!-- Intro -->
+AWS DevOps Engineer | Linux | Ansible | Terraform | Jenkins | Docker | Kubernetes
 
-- **Cloud Platforms:** AWS (EC2, S3, Route 53, VPC, EKS, etc.)
-- **Infrastructure as Code:** Terraform
-- **Containerization & Orchestration:** Docker, Kubernetes
-- **CI/CD:** Jenkins
-- **Monitoring & Logging:** CloudWatch, ELK Stack, Prometheus
-- **Scripting & Automation:** Bash, Ansible
-- **Version Control:** Git
+<!-- Skills -->
+## Skills
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+## 📫 How to Reach Me
+
+You can reach me via:
+<p align="Start">
+  <a href="rajapeta03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+- Email: Rajapeta45@gamil.com
+- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-raja&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
@@ -31,46 +48,12 @@ I'm open to collaborating on projects related to:
 - CI/CD pipelines setup and optimization
 - Cloud architecture design and implementation
 
-## 📫 How to Reach Me
-
-You can reach me via:
-
-- Email: Rajapeta45@gamil.com
-- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-
-## 💬 Ask Me About
-
-Feel free to ask me about:
-
-- AWS services and best practices
-- Infrastructure automation strategies
-- CI/CD pipeline setup and optimization
-
-## 📝 Fun Fact
-
-Fun fact about me: I once built a Raspberry Pi cluster for running Kubernetes at home!
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-raja&show_icons=true&theme=radical)
-
 ## 📄 Projects
 
 Here are a few projects I'm proud of:
 
 - [Project Name](Link to Project Repository) - Brief description
 
-## 🌐 Find Me Around the Web
 
-- [Portfolio](Your Portfolio URL)
-- [Blog](Your Blog URL)
-- [LinkedIn](Your LinkedIn Profile URL)
-- [Twitter](Your Twitter Handle)
 
-## 🚀 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iam-raja&show_icons=true)
-
-## 📝 Latest Blog Posts
-
-- [Title of Blog Post](Link to Blog Post) - Brief description
