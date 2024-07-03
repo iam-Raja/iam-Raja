@@ -52,7 +52,7 @@ Fun fact about me: I once built a Raspberry Pi cluster for running Kubernetes at
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-raja&show_icons=true&theme=radical)
 
 ## 📄 Projects
 
