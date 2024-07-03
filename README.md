@@ -56,7 +56,7 @@ I'm open to collaborating on projects related to:
 
 
 
-## Reach Me
+## 📫 Reach Me
 
 - Email: Rajapeta45@gamil.com
 - LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
