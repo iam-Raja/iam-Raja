@@ -28,7 +28,7 @@ AWS DevOps Engineer | Linux | Ansible | Terraform | Jenkins | Docker | Kubernete
 <h3 align="left">📫 How to Reach Me</h3>
 
 You can reach me via:
-<div align="left">
+<div align="center">
   <a href="mailto:rajapeta03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -61,6 +61,13 @@ Here are some of my recent projects:
   <a href="https://github.com/iam-Raja/Expense-dev-infra">
     <img src="https://img.shields.io/badge/Expense%20Dev%20Infra-000000?style=for-the-badge&logo=github&logoColor=white" alt="Expense Dev Infra"/>
   </a>
+</div>
+
+<h3 align="left">📊 Contributions</h3>
+
+<!-- GitHub Contributions Graph -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iam-raja&theme=dracula" alt="GitHub Streak"/>
 </div>
 
 <h3 align="left">🎯 Goals</h3>
