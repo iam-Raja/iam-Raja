@@ -61,6 +61,9 @@ Here are some of my recent projects:
   <a href="https://github.com/iam-Raja/Expense-dev-infra">
     <img src="https://img.shields.io/badge/Expense%20Dev%20Infra-000000?style=for-the-badge&logo=github&logoColor=white" alt="Expense Dev Infra"/>
   </a>
+   <a href="https://github.com/iam-Raja/Cloud-Cost-Optimization---Identifying-Stale-EBS-Snapshots">
+    <img src="https://img.shields.io/badge/Cloud%20Cost%20Optimization%20-%20Stale%20EBS%20Snapshots-000000?style=for-the-badge&logo=github&logoColor=white" alt="Cloud Cost Optimization"/>
+  </a>
 </div>
 
 <h3 align="left">🎯 Goals</h3>
