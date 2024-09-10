@@ -28,7 +28,7 @@ AWS DevOps Engineer | Linux | Ansible | Terraform | Jenkins | Docker | Kubernete
 <h3 align="left">📫 How to Reach Me</h3>
 
 You can reach me via:
-<div align="center">
+<div align="left">
   <a href="mailto:rajapeta03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
