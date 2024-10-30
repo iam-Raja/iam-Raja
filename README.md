@@ -1,4 +1,10 @@
-# Hi 👋, I'm Raja!
+<p align="center">
+  <img align="left" src="https://komarev.com/ghpvc/?username=iam-Raja&color=orange&style=for-the-badge&label=VIEWS" alt="Raja"/>
+  <img align="right" src="https://img.shields.io/github/followers/iam-Raja?color=orange&label=Followers&style=for-the-badge" alt="Raja" />
+  <h1 align="center">Hey there.. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+</p>
+
+
 
 <h3 align="left">👩‍💻 About Me</h3>
 
