@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1b563f6a1e2664b3929a1a00c7b32bb61b966d57
 <p align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=iam-Raja&color=orange&style=for-the-badge&label=VIEWS" alt="Raja"/>
   <img align="right" src="https://img.shields.io/github/followers/iam-Raja?color=orange&label=Followers&style=for-the-badge" alt="Raja" />
